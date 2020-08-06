@@ -1,0 +1,13 @@
+.cookie-panel {
+	background-color: var(--c-blue);
+	height: 60px;
+}
+
+.cookie-panel__image {
+	width: 40px;
+}
+
+.cookie-panel__link {
+	margin-right: 20px;
+	color: #fff;
+}

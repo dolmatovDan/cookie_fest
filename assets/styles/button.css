@@ -1,0 +1,15 @@
+.button {
+	padding: 7px 14px;
+	font-size: 14px;
+	color: var(--c-white);
+	border: none;
+	border-radius: 20px;
+	background-color: var(--c-blue);
+	align-self: flex-start;
+	margin-top: 15px;
+}
+
+.button.-reverse {
+	background-color: var(--c-white);
+	color: var(--c-blue);
+}

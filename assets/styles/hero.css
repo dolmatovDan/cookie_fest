@@ -1,0 +1,18 @@
+.hero {
+	background-color: var(--c-yellow);
+}
+
+.hero__body {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	height: calc(100vh - 120px);
+}
+
+.hero__title {
+	font-size: 40px;
+}
+
+.hero__subtitle {
+	margin-top: 15px;
+}
